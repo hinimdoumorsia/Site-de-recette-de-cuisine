@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirige la racine vers le sous-dossier avec index.php
+RewriteRule ^$ tasty-recipes-master/index.php [L]
+
+
