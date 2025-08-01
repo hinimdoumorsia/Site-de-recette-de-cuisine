@@ -27,6 +27,11 @@ Ce projet est un **site web de recettes de cuisine** développé avec plusieurs 
 
 Le site a été déployé sur InfinityFree, permettant un accès en ligne gratuit et sécurisé. Le transfert des fichiers a été effectué avec **FileZilla** via FTP, et la sécurisation HTTPS a été assurée grâce à un certificat SSL/TLS.
 
+## 🔗 Lien vers le site
+
+Vous pouvez visiter le site en ligne ici :  
+[https://tasty23.kesug.com/tasty-recipes-master/?i=2](https://tasty23.kesug.com/tasty-recipes-master/?i=2)
+
 ## 🎯 Objectifs
 
 Ce projet illustre une mise en œuvre complète du développement web, couvrant le front-end, le back-end, la gestion sécurisée des données, ainsi que le déploiement et la sécurisation du site. Il offre une base solide pour enrichir l’expérience utilisateur et étendre les fonctionnalités à l’avenir.
