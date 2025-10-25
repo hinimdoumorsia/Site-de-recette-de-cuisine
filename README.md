@@ -30,7 +30,7 @@ Le site a été déployé sur InfinityFree, permettant un accès en ligne gratui
 ##  Lien vers le site
 
 Vous pouvez visiter le site en ligne ici :  
-[https://tasty23.kesug.com/tasty-recipes-master/?i=2](https://tasty23.kesug.com/tasty-recipes-master/?i=2)
+[https://tasty23.kesug.com/tasty-recipes-master/?i=1](https://tasty23.kesug.com/tasty-recipes-master/?i=1)
 
 ## 🎯 Objectifs
 
